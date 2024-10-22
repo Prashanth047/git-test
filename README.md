@@ -17,4 +17,4 @@ Any text
 
 ---
 # Link
-[this the text for link]([google.com](https://www.google.co.in/))
+[this the text for link](https://www.google.co.in/)
